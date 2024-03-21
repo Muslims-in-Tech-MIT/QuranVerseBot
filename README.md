@@ -39,4 +39,4 @@ Contributions to QuranVerseBot are welcome! Feel free to fork the repository, ma
 
 ## License
 
-QuranVerseBot is licensed under the ISC license. See the LICENSE file for more details.
+QuranVerseBot is licensed under the MIT license. See the LICENSE file for more details.
